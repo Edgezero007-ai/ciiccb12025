@@ -1,0 +1,36 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Toy",
+            "request": "launch",
+            "mainClass": "Toy",
+            "projectName": "ciiccb12025_16968c91"
+        },
+        {
+            "type": "java",
+            "name": "ParkRanger",
+            "request": "launch",
+            "mainClass": "chapter1.ParkRanger",
+            "projectName": "ciiccb12025_16968c91"
+        },
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Plant",
+            "request": "launch",
+            "mainClass": "chapter1.Plant",
+            "projectName": "ciiccb12025_16968c91",
+            "args": "Manila QuezonCity"
+        }
+    ]
+}
