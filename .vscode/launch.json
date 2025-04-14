@@ -6,6 +6,34 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Constructor1Lesson",
+            "request": "launch",
+            "mainClass": "chapter1.Constructor1Lesson",
+            "projectName": "ciiccb12025_16968c91"
+        },
+        {
+            "type": "java",
+            "name": "NamingConflictLesson",
+            "request": "launch",
+            "mainClass": "chapter1.NamingConflictLesson",
+            "projectName": "ciiccb12025_16968c91"
+        },
+        {
+            "type": "java",
+            "name": "Fish4",
+            "request": "launch",
+            "mainClass": "chapter1.Fish4",
+            "projectName": "ciiccb12025_16968c91"
+        },
+        {
+            "type": "java",
+            "name": "Fish4",
+            "request": "launch",
+            "mainClass": "Fish4",
+            "projectName": "ciiccb12025_16968c91"
+        },
+        {
+            "type": "java",
             "name": "Toy",
             "request": "launch",
             "mainClass": "Toy",
