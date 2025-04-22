@@ -6,6 +6,21 @@
     "configurations": [
         {
             "type": "java",
+            "name": "ReferenceLesson",
+            "request": "launch",
+            "mainClass": "chapter1.ReferenceLesson",
+            "projectName": "ciiccb12025_16968c91",
+            "args": "500"
+        },
+        {
+            "type": "java",
+            "name": "Name",
+            "request": "launch",
+            "mainClass": "chapter1.Name",
+            "projectName": "ciiccb12025_16968c91"
+        },
+        {
+            "type": "java",
             "name": "Constructor1Lesson",
             "request": "launch",
             "mainClass": "chapter1.Constructor1Lesson",

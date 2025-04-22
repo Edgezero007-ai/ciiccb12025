@@ -11,6 +11,6 @@ public class NamingConflictLesson {
     
     public static void main(String[] args) {
         otherFolder.SunFlower s1 = new SunFlower();
-        System.out.println(s1.message);    
+        // System.out.println(s1.message);    
     }
 }

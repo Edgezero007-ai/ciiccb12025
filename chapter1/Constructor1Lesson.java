@@ -34,7 +34,7 @@ class Name{
 
         name1.first ="Anton";
         name1.last = "Racal";
-        name1.full =name1.first+name1.last;
+        // name1.full =name1.first+name1.last;
         System.out.println(name1.full);
     }
 }
