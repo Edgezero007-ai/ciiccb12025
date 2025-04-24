@@ -22,5 +22,26 @@ public class IfStatementLesson {
         else
             System.out.println("Good Morning");
         // (boolean expression) T : F;
+        System.out.println((hourOfDay>=18)?"Good Eve":(hourOfDay>=12)?"Good Afternoon":"Good Morning");
+        int dayOfWeek =9;
+        switch(dayOfWeek){
+            
+            case 1: System.out.println("Monday");
+                    break;
+            case 2: System.out.println("Tuesday");
+                    break;
+            case 3: System.out.println("Wednesday");
+                    break;
+            default:
+                    System.out.println("Invalid Day of Week");
+            case 4: System.out.println("Thusday");
+                    break;
+            case 5: System.out.println("Friday");
+                    break;
+            case 6: 
+            case 7: System.out.println("Weekends");
+                    break;
+            
+        }
     }
 }
