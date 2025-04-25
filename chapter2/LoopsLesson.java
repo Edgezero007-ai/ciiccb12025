@@ -19,7 +19,10 @@ public class LoopsLesson {
             System.out.println("b = "+b++);
 
       
-        for(int x=1;x<9;x++){
+         System.out.println("enter a valid number");
+        Scanner q = new Scanner(System.in);
+        int limit = q.nextInt();
+        for(int x=1;x<limit;x++){
             for(int y=1;y<=x;y++){
                 System.out.print(x);
             }
@@ -28,5 +31,16 @@ public class LoopsLesson {
         String[] colors ={"black","red","pink","yellow","white","blue"}; 
         for(String color: colors)
             System.out.println("Color: "+color);
-   } 
+        ROW_TABLE: for(int p = 1;p<=10;p++){
+        COL_TABLE:      for(int l = 1;l<=10;l++){
+                            if(l==5)
+                                // break ROW_TABLE;
+                                continue ROW_TABLE;
+                            System.out.print(l*p+"\t");
+                            }
+                        System.out.println();     
+
+        }
+        }
+    
 }
