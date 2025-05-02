@@ -6,6 +6,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "ArrayLesson",
+            "request": "launch",
+            "mainClass": "chapter3.ArrayLesson",
+            "projectName": "ciiccb12025_16968c91"
+        },
+        {
+            "type": "java",
+            "name": "StringBuilderLesson",
+            "request": "launch",
+            "mainClass": "chapter3.StringBuilderLesson",
+            "projectName": "ciiccb12025_16968c91"
+        },
+        {
+            "type": "java",
             "name": "StringLesson",
             "request": "launch",
             "mainClass": "chapter3.StringLesson",

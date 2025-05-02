@@ -21,5 +21,7 @@ public class StringLesson {
         System.out.println(word1);
         String trimSample = "       \t \n \t Marc Yim          \t \n";
         System.out.println(trimSample.trim());
+        word1.concat(" again");
+        System.out.println(word1.length());
     }
 }
