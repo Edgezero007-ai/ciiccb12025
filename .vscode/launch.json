@@ -6,6 +6,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "SumAveArray",
+            "request": "launch",
+            "mainClass": "progChal.SumAveArray",
+            "projectName": "ciiccb12025_16968c91"
+        },
+        {
+            "type": "java",
+            "name": "DateAndTimeLesson",
+            "request": "launch",
+            "mainClass": "chapter3.DateAndTimeLesson",
+            "projectName": "ciiccb12025_16968c91"
+        },
+        {
+            "type": "java",
             "name": "ArrayLesson",
             "request": "launch",
             "mainClass": "chapter3.ArrayLesson",
