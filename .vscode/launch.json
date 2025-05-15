@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "LambdaLesson",
+            "request": "launch",
+            "mainClass": "chapter4.LambdaLesson",
+            "projectName": "ciiccb12025_16968c91"
+        },
+        {
+            "type": "java",
             "name": "PitCoin",
             "request": "launch",
             "mainClass": "progChal.PitCoin",
