@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "InheritanceLesson",
+            "request": "launch",
+            "mainClass": "chapter5.InheritanceLesson",
+            "projectName": "ciiccb12025_16968c91"
+        },
+        {
+            "type": "java",
             "name": "LambdaLesson",
             "request": "launch",
             "mainClass": "chapter4.LambdaLesson",
