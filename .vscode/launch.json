@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "PolyMorrphismLesson",
+            "request": "launch",
+            "mainClass": "chapter5.PolyMorrphismLesson",
+            "projectName": "ciiccb12025_16968c91"
+        },
+        {
+            "type": "java",
             "name": "InheritanceLesson",
             "request": "launch",
             "mainClass": "chapter5.InheritanceLesson",
