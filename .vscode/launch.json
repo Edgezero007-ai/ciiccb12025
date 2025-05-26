@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "ExceptionLesson3",
+            "request": "launch",
+            "mainClass": "chapter6.ExceptionLesson3",
+            "projectName": "ciiccb12025_16968c91"
+        },
+        {
+            "type": "java",
             "name": "PolyMorrphismLesson",
             "request": "launch",
             "mainClass": "chapter5.PolyMorrphismLesson",
